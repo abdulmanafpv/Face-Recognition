@@ -15,6 +15,7 @@ The images are grey scale and 92×11 pixels in dimension. While these images are
 6) Jupyter Notebook
 # Technologies Used
 ![Scikit_learn_logo_small](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+![Screenshot (155)](https://user-images.githubusercontent.com/84491967/139635128-5ac86cca-3de3-483e-9ba2-d0de52da5e49.png)
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities or collabration, shoot an email at pvmanaf02@gmail.com
 
