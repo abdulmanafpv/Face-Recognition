@@ -8,7 +8,7 @@ The images are grey scale and 92×11 pixels in dimension. While these images are
 # Tools Used
 
 1) Python
-2) Scikit- Learn
+2) Scikit- learn
 3) Pandas
 4) Numpy
 5) Mahotas
