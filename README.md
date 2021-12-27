@@ -1,5 +1,15 @@
 # Face-Recognition
 
+# About
+
+Built a model for predicting facial expressions under different lighting conditions
+
+# Objective: 
+Create a model for predicting facial expressions under different lighting conditions
+# Steps and tasks:
+1. Exploratory Data Analysis
+2. Find a good predicting model for facial expressions under different lighting conditions
+
 # Contents
 
 The data set contains ten images each of fourty people.The image were created under diffrent lighting conditions, and the subjects varied their facial expressions.
