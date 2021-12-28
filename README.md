@@ -6,7 +6,7 @@ Built a model for predicting facial expressions under different lighting conditi
 
 # Objective: 
 Create a model for predicting facial expressions under different lighting conditions
-# Steps and tasks:
+# Steps and Tasks:
 1. Exploratory Data Analysis
 2. Find a good predicting model for facial expressions under different lighting conditions
 
